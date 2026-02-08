@@ -1,31 +1,33 @@
 # React Todo App 📝
 
-A simple **Todo Application built with React** to practice core React concepts like
-state management, props drilling, controlled inputs, and component-based architecture.
+A modern **Todo Application** built using **React + Vite** with a clean UI powered by **Tailwind CSS**.
 
-🚧 **Status:** Work in Progress (More features & UI improvements coming soon)
-
----
-
-## ✨ Features Implemented
-
-- Add new todos
-- Unique todo IDs using `nanoid`
-- Controlled input fields
-- State management using `useState`
-- Props drilling (Parent → Child)
-- Component-based structure
+This project is part of my React learning journey where I am applying core React concepts by building real features step by step.
 
 ---
 
-## 🔮 Upcoming Features
+## 🚀 Features Implemented
 
-- Delete todo
-- Mark todo as completed
-- Conditional styling (completed vs pending)
-- Better UI & layout
-- Edit todo
-- Filter (All / Completed / Pending)
+- ✅ Create new todos
+- ✅ Delete todos
+- ✅ Input validation (empty todo prevention)
+- ✅ Unique IDs using `nanoid`
+- ✅ Controlled inputs (two-way binding)
+- ✅ State management with `useState`
+- ✅ Props drilling (Parent → Child)
+- ✅ Clean & responsive UI using Tailwind CSS
+
+---
+
+## 🧠 Concepts Covered
+
+- React Functional Components
+- `useState` Hook
+- Two-way Binding (Controlled Inputs)
+- Props Drilling
+- Array operations (`map`, `filter`)
+- Component-based architecture
+- Styling with Tailwind CSS
 
 ---
 
@@ -33,43 +35,33 @@ state management, props drilling, controlled inputs, and component-based archite
 
 ```text
 src/
- ├── components/
- │   ├── CreateTodo.jsx
- │   └── ReadTodoList.jsx
- ├── App.jsx
- └── main.jsx
- ```
+├── components/
+│   ├── CreateTodo.jsx
+│   └── ReadTodoList.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+```
 
----
-## ⚙️ Tech Stack
+## 🛠 Tech Stack
+
 - React (Vite)
 - JavaScript (ES6+)
-- HTML & CSS
+- Tailwind CSS
 - nanoid
 - Git & GitHub
 
 ---
-
 ## ▶️ How to Run Locally
 ```
 npm install
 npm run dev
 ```
 ---
-
-## 🎯 Learning Goals
-- Understand React state flow
-- Practice props drilling
-- Build CRUD logic step by step
-- Improve React fundamentals
-- Prepare for real-world projects
-
----
-
 ## 📌 Note
-This project is built for learning and practice purposes.
-The codebase will improve as I continue learning React.
 
+This project is still under development and will be improved continuously as I learn more advanced React concepts.
+---
 ## 👨‍💻 Author
 
 Shahbaz Alam
