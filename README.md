@@ -9,21 +9,13 @@ This project is part of my React learning journey where I apply core and interme
 ## 🚀 Features Implemented
 
 - ✅ Create new todos
-
 - ✅ Delete todos
-
 - ✅ Form validation using react-hook-form
-
 - ✅ Toast notifications using react-toastify
-
 - ✅ Unique IDs with nanoid
-
 - ✅ Controlled form handling
-
 - ✅ Real-time state updates
-
 - ✅ Clean responsive UI with Tailwind CSS
-
 - ✅ Component-based architecture
 
 ---
@@ -31,23 +23,14 @@ This project is part of my React learning journey where I apply core and interme
 ## 🧠 React Concepts Covered
 
 - Functional Components
-
 - `useState` Hook
-
 - Props Drilling (Parent → Child)
-
 - Form handling with `react-hook-form`
-
 - Validation & error handling
-
 - Array methods (`map`, `filter`)
-
 - Conditional rendering
-
 - Event handling
-
 - External library integration
-
 - Component composition
 
 ---
@@ -100,7 +83,9 @@ npm run dev
 ---
 
 ## Then open:
-http://localhost:5173)
+
+http://localhost:5173
+
 
 ---
 ## 📌 Upcoming Improvements
