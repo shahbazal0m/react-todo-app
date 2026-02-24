@@ -4,7 +4,7 @@ import ReadTodoList from "./components/ReadTodoList";
 
 const App = () => {
   const [todos, settodos] = useState([
-    { id: 1, title: "Kaam kar lee bhai", isCompleted: false },
+    { id: 1, title: "Task no.1", isCompleted: false },
   ]);
 
   return (
