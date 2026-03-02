@@ -88,19 +88,6 @@ http://localhost:5173
 
 
 ---
-## 📌 Upcoming Improvements
-
-- ⏳ Mark todo as completed
-
-- 💾 LocalStorage persistence
-
-- ✏️ Edit todo feature
-
-- 🎨 UI enhancements & animations
-
-- 📱 Improved responsiveness
-
----
 
 ## 👨‍💻 Author
 
