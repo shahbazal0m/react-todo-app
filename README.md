@@ -44,7 +44,7 @@ This project demonstrates state lifting and component communication using props.
 - 📝 react-hook-form
 - 🔔 react-toastify
 - 💻 JavaScript (ES6+)
-- 🗂 Git & GitHub
+- 🗂  Git & GitHub
 
 ---
 
@@ -70,29 +70,29 @@ todo-app/
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation & Setup
 
 1️⃣ Clone the repository
 
-```bash
+```
 git clone https://github.com/your-username/react-todo.git
 ```
 
 2️⃣ Navigate into the project
 
-```bash
+```
 cd react-todo-app
 ```
 
 3️⃣ Install dependencies
 
-```bash
+```
 npm install
 ```
 
 4️⃣ Run the project
 
-```bash
+```
 npm run dev
 ```
 
@@ -104,4 +104,4 @@ Shahbaz Alam
 
 B.Tech CSE Student | MERN Stack Learner
 
-Building projects while mastering React fundamentals.
+Building projects while mastering React fundamentals
