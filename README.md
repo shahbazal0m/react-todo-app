@@ -1,8 +1,10 @@
-# React Todo App 📝✨
+# 📝 React Todo App – Props Version
 
 A modern and clean **Todo Application** built using **React (Vite)** with a beautiful UI powered by **Tailwind CSS.**
 
-This project is part of my React learning journey where I apply core and intermediate React concepts by building real-world features step by step.
+This version uses useState in the App component and passes data through props to child components.
+
+This project demonstrates state lifting and component communication using props.
 
 ---
 
@@ -37,17 +39,11 @@ This project is part of my React learning journey where I apply core and interme
 ## 🛠 Tech Stack
 
 - ⚛️ React (Vite)
-
 - 💨 Tailwind CSS
-
 - 📦 nanoid
-
 - 📝 react-hook-form
-
 - 🔔 react-toastify
-
 - 💻 JavaScript (ES6+)
-
 - 🗂 Git & GitHub
 
 ---
@@ -57,7 +53,6 @@ This project is part of my React learning journey where I apply core and interme
 todo-app/
 │
 ├── public/
-│
 ├── src/
 │   ├── components/
 │   │   ├── CreateTodo.jsx
@@ -69,23 +64,37 @@ todo-app/
 │
 ├── index.html
 ├── package.json
+├── vite.config.js
 └── README.md
 ```
+
 ---
 
-## ▶️ How to Run Locally
+## ⚙️ Installation
 
+1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/your-username/react-todo.git
 ```
-npm install
 
+2️⃣ Navigate into the project
+
+```bash
+cd react-todo-app
+```
+
+3️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+4️⃣ Run the project
+
+```bash
 npm run dev
 ```
----
-
-## Then open:
-
-http://localhost:5173
-
 
 ---
 
@@ -95,4 +104,4 @@ Shahbaz Alam
 
 B.Tech CSE Student | MERN Stack Learner
 
-Building projects while mastering React fundamentals 🚀
+Building projects while mastering React fundamentals.
